@@ -1,1 +1,1 @@
-# README.md
+# Založila jsem si jej proto, že to bylo v rámci úkolu do pøedmìtu Nástroje a možnosti internetu.
